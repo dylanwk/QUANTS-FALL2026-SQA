@@ -1,0 +1,6 @@
+jschema-to-python==1.2.3
+numpy>=1.26,<3
+pandas>=2.2.3,<3
+ruamel.yaml>=0.18,<0.19
+sarif-om==1.0.4
+typer>=0.16,<1
