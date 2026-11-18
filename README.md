@@ -1,8 +1,8 @@
-# SliKube — Fall 2026 Software Quality Assurance
+# QUANTS — Fall 2026 Software Quality Assurance
 
-**Team name** SliKube (provisional)  
+**Team name** QUANTS  
 **Course** COMP 5710/6710  
-**Public repository name** `SliKube-FALL2026-SQA` if the team keeps this name
+**Public repository name** `QUANTS-FALL2026-SQA`
 
 ## Team
 
@@ -10,6 +10,8 @@
 - Dylan Walker
 - Aubrey Foote
 - Josh Daniels
+
+SliKube is the starter project for this assignment.
 
 ## Local setup
 
